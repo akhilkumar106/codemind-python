@@ -13,3 +13,4 @@ for i in range(len(a)):
         y+=x[z]
         z+=1
 print(y)
+
